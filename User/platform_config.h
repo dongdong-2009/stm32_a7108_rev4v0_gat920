@@ -30,8 +30,8 @@
 
 //自动写SN, CROSSID, jFlash烧写程序版本需要去掉
 //#define WRITE_SN_CROSSID
-#define MAC_SN			1802098001
-#define CROSSID		18020901
+#define MAC_SN			1804018001
+#define CROSSID		18040101
 #define INTERVALTIME	60												//统计时长,默认60(单位秒),0上传实时数据
 /*
 		MAC_SN : 倒数第三位
